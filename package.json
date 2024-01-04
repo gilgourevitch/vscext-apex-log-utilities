@@ -2,7 +2,7 @@
   "name": "apex-log-utilities",
   "displayName": "apex-log-utilities",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -13,8 +13,17 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "apex-log-utilities.helloWorld",
-      "title": "Hello World"
+      "command": "apex-log-utilities.openLogStream",
+      "title": "Apex Log Utils: Open Log Stream"
+    },{
+      "command": "apex-log-utilities.openLogStreamInTab",
+      "title": "Apex Log Utils: Open Log Stream in tab"
+    },{
+      "command": "apex-log-utilities.openDebugStream",
+      "title": "Apex Log Utils: Open Debug Stream"
+    },{
+      "command": "apex-log-utilities.openDebugStreamInTab",
+      "title": "Apex Log Utils: Open Debug Stream in tab"
     }]
   },
   "scripts": {
@@ -30,5 +39,10 @@
     "typescript": "^5.3.3",
     "@vscode/test-cli": "^0.0.4",
     "@vscode/test-electron": "^2.3.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilgourevitch/vscext-apex-log-utilities.git"
+  },
   }
 }
