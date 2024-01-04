@@ -2,6 +2,7 @@
   "name": "apex-log-utilities",
   "displayName": "apex-log-utilities",
   "description": "",
+  "icon": "images/logo.png",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.85.0"
