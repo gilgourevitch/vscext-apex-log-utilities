@@ -1,4 +1,4 @@
-# apex-log-utilities README
+# Apex Log Utilities README
 
 This is the README file for the Apex Log utility Extension. This Extension exposes some commands to stream Apex logs, in terminal window or in a new tab.
 
