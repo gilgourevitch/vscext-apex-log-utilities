@@ -2,6 +2,9 @@
 
 This is the README file for the Apex Log utility Extension. This Extension exposes some commands to stream Apex logs, in terminal window or in a new tab.
 
+[Installation](#installation 'Installation instructions') |
+[Features](#features 'Details about Features') |
+[Settings](#settings 'Go to Settings') |
 
 ## Installation
 

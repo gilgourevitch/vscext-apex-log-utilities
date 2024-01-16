@@ -4,8 +4,17 @@
   "publisher": "GilGourevitch",
   "description": "Eases the Apex log retrieval by streaming Apex Logs from the default project org in a Terminal.",
   "icon": "images/logo.png",
-  "version": "1.0.2",
-  "engines": {
+  "version": "1.0.3",
+  "keywords": [
+    "apex",
+    "apexlog",
+    "debug",
+    "debuglog",
+    "log",
+    "logstream",
+    "logtail",
+    "salesforce"
+  ],  "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
