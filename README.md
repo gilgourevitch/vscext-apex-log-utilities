@@ -15,7 +15,7 @@ This is the README file for the Apex Log utility Extension. This Extension expos
 ## Features
 
 Opens a terminal window to stream apex logs, with colors.
-Can filter log rows to show only lines containing USER_DEBUG.
+Can filter log rows to show only lines containing USER_DEBUG by choosing command `Open Debug Stream`.
 
 You can also choose to open log stream to a VSCode tab.
 
