@@ -2,7 +2,7 @@
   "name": "apex-log-utilities",
   "displayName": "Apex Log Utilities",
   "publisher": "GilGourevitch",
-  "description": "",
+  "description": "Eases the Apex log retrieval by streaming Apex Logs from the default project org in a Terminal.",
   "icon": "images/logo.png",
   "version": "1.0.0",
   "engines": {
