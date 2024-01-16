@@ -1,6 +1,7 @@
 {
   "name": "apex-log-utilities",
   "displayName": "Apex Log Utilities",
+  "publisher": "GilGourevitch",
   "description": "",
   "icon": "images/logo.png",
   "version": "1.0.0",
