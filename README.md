@@ -13,7 +13,7 @@ This is the README file for the Apex Log utility Extension. This Extension expos
 
 ### VSCode Marketplace
 
-- Install from the VSCode market place by clicking install on [Visual Studio Code Market Place: Apex Log Utilies](https://marketplace.visualstudio.com/items?itemName=GilGourevitch.apex-log-utilities)
+- Install from the VSCode market place by clicking install on [Visual Studio Code Market Place: Apex Log Utilities](https://marketplace.visualstudio.com/items?itemName=GilGourevitch.apex-log-utilities)
 
 ## Features
 

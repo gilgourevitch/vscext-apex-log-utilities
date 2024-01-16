@@ -4,7 +4,7 @@
   "publisher": "GilGourevitch",
   "description": "Eases the Apex log retrieval by streaming Apex Logs from the default project org in a Terminal.",
   "icon": "images/logo.png",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "apex",
     "apexlog",
