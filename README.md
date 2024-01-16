@@ -3,8 +3,11 @@
 This is the README file for the Apex Log utility Extension. This Extension exposes some commands to stream Apex logs, in terminal window or in a new tab.
 
 [Installation](#installation 'Installation instructions') |
+[VSCode Marketplace](#vscode-marketplace 'VSCode Marketplace') |
 [Features](#features 'Details about Features') |
-[Settings](#settings 'Go to Settings') |
+[Command Palette](#command-palette 'Command Palette') |
+[Requirements](#requirements 'Requirements') |
+[Extension Settings](#extension-settings 'Go to Extension Settings') |
 
 ## Installation
 
@@ -13,7 +16,7 @@ This is the README file for the Apex Log utility Extension. This Extension expos
 
 ### VSCode Marketplace
 
-- Install from the VSCode market place by clicking install on [Visual Studio Code Market Place: Apex Log Utilities](https://marketplace.visualstudio.com/items?itemName=GilGourevitch.apex-log-utilities)
+Install from the VSCode market place by clicking install on [Visual Studio Code Market Place: Apex Log Utilities](https://marketplace.visualstudio.com/items?itemName=GilGourevitch.apex-log-utilities)
 
 ## Features
 
@@ -22,7 +25,7 @@ Can filter log rows to show only lines containing USER_DEBUG by choosing command
 
 You can also choose to open log stream to a VSCode tab.
 
-### Command Pallette
+### Command Palette
 
 - Open command pallette (CMD/CTRL + Shift + P)
 - Look at `Apex Log` prefixed commands
