@@ -14,7 +14,8 @@
     "logstream",
     "logtail",
     "salesforce"
-  ],  "engines": {
+  ],  
+  "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
