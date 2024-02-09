@@ -39,6 +39,10 @@ Should be executed in a SFDX Project context.
 
 No Settings
 
+### 1.0.7
+
+Creates a specific debug log level and a trace flag for the current user if it does not already exists.
+
 ### 1.0.0
 
 Initial release
